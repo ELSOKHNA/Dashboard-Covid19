@@ -7,7 +7,7 @@ Tableau de bord interactif retraçant l'évolution de la pandémie de COVID-19
 
 ##  Démo en direct
  **[Ouvrir le tableau de bord](https://elvaaaa.shinyapps.io/covid19-dashboard/)**
-*(le premier chargement peut prendre ~20 s, le temps que l'application se réveille)*
+ 
 
 ##  Fonctionnalités
 - **Vaccination** — évolution de la couverture vaccinale au Canada, par province.
